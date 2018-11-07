@@ -19,7 +19,7 @@ The linkage example is based on [Kent L. Lawrence's work](http://mae.uta.edu/~la
 
 ### Usage
 1. Download and open up SimpleLinkExample.gh. The Python scripts are already loaded connected in ghPython components.
-2. Change the "installLocation" panel to match the location of your Ansys instalation. The file to link is a .exe file which will open up a command prompt running Ansys Mechanical APDL.
+2. Change the "installLocation" panel to match the location of your Ansys installation. The file to link is a .exe file which will open up a command prompt running Ansys Mechanical APDL.
 3. Change the "workFolder" panel to be a location on your computer on which your Ansys simulation files will reside.
 4. Press run!
 
